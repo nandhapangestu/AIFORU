@@ -1,0 +1,23 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# macOS
+.DS_Store
+
+# Replit-specific
+.replit
+*.db
+
+# Credentials
+*.json
+!project-ai-*.json
+
+# Streamlit secrets
+secrets.toml
